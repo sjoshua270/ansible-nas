@@ -27,7 +27,8 @@ plex_music_permissions: "rw"
 plex_hostname: "plex"
 
 # specs
-plex_memory: "2g"
+plex_memory: "6g"
+plex_shm: "4g"
 
 # Device mappings for the docker container. E.g. To enable hardware transcoding:
 # plex_devices:

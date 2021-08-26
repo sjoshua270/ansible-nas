@@ -28,6 +28,7 @@
       PUID: "{{ plex_user_id }}"
       PGID: "{{ plex_group_id }}"
       VERSION: "{{ plex_version }}"
+    shm_size: "{{ plex_shm }}"
     restart_policy: unless-stopped
     memory: "{{ plex_memory }}"
     labels:
