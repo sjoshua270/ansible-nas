@@ -24,7 +24,6 @@ I am working on it for my own benefit and wanted to share with others what apps/
 * [NZBget](https://nzbget.net/) - The most efficient usenet downloader
 * [Transmission](https://transmissionbt.com/) - BitTorrent client (with OpenVPN if you have a supported VPN provider)
 * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners
-
 ### Media Source Aggregators
 
 * [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -49,7 +48,6 @@ I am working on it for my own benefit and wanted to share with others what apps/
 * [MyMediaForAlexa](https://www.mymediaalexa.com/) - Lets you stream your music collection to your alexa device
 * [Plex](https://www.plex.tv/) - Plex Media Server
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Book and comic server
-
 ### Git
 
 * [GitLab](https://about.gitlab.com/features/) - Self-hosted GitHub clone of the highest order
